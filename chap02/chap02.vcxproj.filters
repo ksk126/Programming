@@ -18,5 +18,26 @@
     <ClCompile Include="IntroMe.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="project1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="project2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="project5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="project7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="project9.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="project10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="project11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
